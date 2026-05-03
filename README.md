@@ -9,8 +9,7 @@ During this project, I encountered the challenge of managing multiple similar ch
 
 ##  Dashboard Preview
 
-![Retail Sales Dashboard](Dashboard.png)
-
+HR Data Analysis.pdf
 
 ## Key Learnings
 
@@ -44,16 +43,8 @@ I applied slicers and filters, used consistent formatting, and ensured that char
 * **DAX** – for writing calculated columns like age groups and tenure.
 * **Microsoft Excel** – for cleaning and storing the employee dataset.
 
-## Acknowledgments
-
-Special thanks to **AI Datayard** and **Ma'am Rabbiyah** for organizing the BI Bootcamp and providing clear explanations and support throughout the learning process. This project helped build my confidence in using Power BI for data analysis.
 
 
-##  Author
-
-**Maira Nawaz**
-
-[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
 
 
 
