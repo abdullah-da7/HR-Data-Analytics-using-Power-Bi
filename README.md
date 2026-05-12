@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This Power BI dashboard was created as a part of my first mini project during the BI Bootcamp conducted at AI Datayard under the guidance of Ma'am Rabbiyah. The main objective was to analyze employee-related data, explore data visualization features in Power BI, and derive key insights in a clean and interactive way.
+The main objective was to analyze employee-related data, explore data visualization features in Power BI, and derive key insights in a clean and interactive way.
 
 During this project, I encountered the challenge of managing multiple similar charts which made the dashboard look crowded. To solve this, I learned about a useful Power BI feature called **Hierarchies**, which allowed me to group fields like `Business Unit`, `Department`, and `Division` into a single drillable visual. This helped in organizing related data together and avoiding repetition across visuals.
 
